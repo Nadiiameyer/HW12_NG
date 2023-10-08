@@ -11,7 +11,6 @@ import org.testng.asserts.SoftAssert;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class GitHubTest<HomePage> extends BaseTest {
     @org.testng.annotations.Test
     public void verifyThatLogioOnTheLoginPageIsDisplayed() {
